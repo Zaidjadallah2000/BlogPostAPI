@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "YkxfpvrbHJuEJNY4vGGf2cu01JEV+V+7v0sh0mRIOKg=",
+  "Source": "BlogAPIApp",
+  "BasePath": "_content/BlogAPIApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BlogAPIApp\\wwwroot",
+      "Source": "BlogAPIApp",
+      "ContentRoot": "C:\\inetpub\\wwwroot\\BlogAPIApp\\BlogAPIApp\\wwwroot\\",
+      "BasePath": "_content/BlogAPIApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\inetpub\\wwwroot\\BlogAPIApp\\BlogAPIApp\\wwwroot\\Uploads\\Screenshot (1).png",
+      "SourceId": "BlogAPIApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\inetpub\\wwwroot\\BlogAPIApp\\BlogAPIApp\\wwwroot\\",
+      "BasePath": "_content/BlogAPIApp",
+      "RelativePath": "Uploads/Screenshot (1).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Screenshot (1).png"
+    }
+  ]
+}
